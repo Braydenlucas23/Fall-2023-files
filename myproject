@@ -1,7 +1,7 @@
 import random
 
 def generate_wordlist():
-    wordlist = ["fruit", "table", "bread", "water", "chair", "house", "happy", "smile","beach","river","watch","dream","plant","dance","frost"]
+    wordlist = ["fruit", "table", "bread", "water", "chair", "house", "happy", "smile","beach","river","watch","dream","plant","dance","frost","music","hello","light","tiger","frost","blend","brush","heart","blaze","grace","catch","sound","river"]
     return wordlist
 
 def choose_best_guess(wordlist, previous_guesses, previous_feedbacks):
